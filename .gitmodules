@@ -1,0 +1,12 @@
+[submodule "csv-lite"]
+	path = csv-lite
+	url = https://github.com/LIUBINfighter/csv-lite.git
+[submodule "Obsidian-Tab-Flow"]
+	path = Obsidian-Tab-Flow
+	url = https://github.com/LIUBINfighter/Obsidian-Tab-Flow.git
+[submodule "Github-Projects"]
+	path = Github-Projects
+	url = https://github.com/LIUBINfighter/Github-Projects.git
+[submodule "obsidian-dev-docs-zh"]
+	path = obsidian-dev-docs-zh
+	url = https://github.com/LIUBINfighter/obsidian-dev-docs-zh.git
